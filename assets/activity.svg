@@ -1,0 +1,30 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sergio GitHub activity snapshot</title>
+  <desc id="desc">Verified GitHub contribution counts for the twelve months ending July 21, 2026.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#343297"/><stop offset="1" stop-color="#6A67FF"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#10122A" flood-opacity=".08"/></filter>
+  </defs>
+  <rect width="1200" height="180" rx="20" fill="#F6F8FC"/>
+  <g filter="url(#shadow)">
+    <rect x="18" y="18" width="276" height="144" rx="16" fill="url(#accent)"/>
+    <rect x="312" y="18" width="276" height="144" rx="16" fill="white" stroke="#E5E7F0"/>
+    <rect x="606" y="18" width="276" height="144" rx="16" fill="white" stroke="#E5E7F0"/>
+    <rect x="900" y="18" width="282" height="144" rx="16" fill="white" stroke="#E5E7F0"/>
+  </g>
+  <text x="42" y="56" fill="#D9D8FF" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700" letter-spacing="1.4">CONTRIBUTIONS</text>
+  <text x="42" y="112" fill="white" font-family="Inter, ui-sans-serif, system-ui" font-size="42" font-weight="800">7,822</text>
+  <text x="42" y="140" fill="#D9D8FF" font-family="Inter, ui-sans-serif, system-ui" font-size="13">12 months ending 2026-07-21</text>
+
+  <text x="338" y="56" fill="#70738A" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700" letter-spacing="1.4">PUBLIC COMMITS</text>
+  <text x="338" y="112" fill="#343297" font-family="Inter, ui-sans-serif, system-ui" font-size="42" font-weight="800">73</text>
+  <text x="338" y="140" fill="#8A8DA1" font-family="Inter, ui-sans-serif, system-ui" font-size="13">GitHub contribution collection</text>
+
+  <text x="632" y="56" fill="#70738A" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700" letter-spacing="1.4">PULL REQUESTS</text>
+  <text x="632" y="112" fill="#343297" font-family="Inter, ui-sans-serif, system-ui" font-size="42" font-weight="800">11</text>
+  <text x="632" y="140" fill="#8A8DA1" font-family="Inter, ui-sans-serif, system-ui" font-size="13">Upstream and owned repositories</text>
+
+  <text x="926" y="56" fill="#70738A" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700" letter-spacing="1.4">ISSUES</text>
+  <text x="926" y="112" fill="#343297" font-family="Inter, ui-sans-serif, system-ui" font-size="42" font-weight="800">60</text>
+  <text x="926" y="140" fill="#8A8DA1" font-family="Inter, ui-sans-serif, system-ui" font-size="13">Product and open-source work</text>
+</svg>
