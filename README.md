@@ -10,7 +10,7 @@
 
 ## I turn rules into working systems
 
-I am **Sergio**, a CPA specializing in public grants and government-funded R&D. I build at the boundary between accounting judgment and software execution:
+I am **Sergio**, a **Washington State CPA**, three-time AI hackathon award winner, and product builder specializing in public grants and government-funded R&D. I build at the boundary between accounting judgment and software execution:
 
 - **public-grant operations**, post-award closeout, evidence review, and recovery workflows;
 - **agent infrastructure**, source-bound execution, orchestration, and developer tools;
@@ -19,6 +19,13 @@ I am **Sergio**, a CPA specializing in public grants and government-funded R&D. 
 My recurring question is simple:
 
 > How do we turn professional rules into systems that remain inspectable, testable, and safe to act on?
+
+## Recognition
+
+- **Open Builders Alliance Weekendthon**, runner-up with SealCPA and recipient of an **OpenAI-backed USD 10,000 prize**
+- **Build Together Hackathon**, winner
+- **Microsoft Copilot Hackathon**, award recipient
+- **Ouroboros ecosystem**, open-source maintainer and upstream contributor
 
 <p align="center">
   <img src="./assets/activity.svg" width="100%" alt="GitHub activity snapshot" />
