@@ -57,15 +57,20 @@ My recurring question is simple:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Agent design research</h3>
-      <p>Contributor to reusable execution contracts and low-level agent patterns.</p>
+      <h3><a href="https://github.com/LilMGenius/paperthin">LilMGenius/paperthin</a></h3>
+      <p>Authored five upstream proposals for validation, link integrity, multi-perspective review, and intent-first agent behavior.</p>
       <ul>
-        <li><a href="https://github.com/Q00/contractplane/pull/13">ContractPlane #13</a>, OpenAI-family evaluation arm</li>
-        <li><a href="https://github.com/LilMGenius/paperthin/pulls?q=is%3Apr+author%3Asergiobuilds">Paperthin</a>, validation and intent-first patterns</li>
+        <li><a href="https://github.com/LilMGenius/paperthin/pull/12">#12</a> SKILL.md structure and frontmatter validation</li>
+        <li><a href="https://github.com/LilMGenius/paperthin/pull/13">#13</a> skill-reference integrity checks</li>
+        <li><a href="https://github.com/LilMGenius/paperthin/pull/14">#14</a> relative-link verification</li>
+        <li><a href="https://github.com/LilMGenius/paperthin/pull/15">#15</a> independent perspective panel</li>
+        <li><a href="https://github.com/LilMGenius/paperthin/pull/16">#16</a> proposal-first intent inference</li>
       </ul>
     </td>
   </tr>
 </table>
+
+Also contributed the <a href="https://github.com/Q00/contractplane/pull/13">OpenAI-family evaluation arm to Q00/contractplane</a>.
 
 ## Products and public systems
 
