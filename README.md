@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Sergio builds public-grant systems and agent infrastructure" />
-</p>
-
-<p align="center">
   <a href="https://ouroboros.page/"><img src="https://img.shields.io/badge/MAINTAINER-Ouro--labs-343297?style=for-the-badge" alt="Maintainer at Ouro-labs" /></a>
   <a href="https://github.com/Q00/ouroboros"><img src="https://img.shields.io/github/stars/Q00/ouroboros?style=for-the-badge&logo=github&label=OUROBOROS&color=343297" alt="Q00 Ouroboros stars" /></a>
   <a href="https://grantback.vercel.app"><img src="https://img.shields.io/badge/BUILDING-GrantBack-6A67FF?style=for-the-badge" alt="Building GrantBack" /></a>
@@ -27,33 +23,9 @@ My recurring question is simple:
 - **Microsoft Copilot Hackathon**, award recipient
 - **Ouroboros ecosystem**, open-source maintainer and upstream contributor
 
-<p align="center">
-  <img src="./assets/activity.svg" width="100%" alt="GitHub activity snapshot" />
-</p>
-
 ## Open-source work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Q00/ouroboros">Q00/ouroboros</a></h3>
-      <p><strong>Upstream contributor</strong> to the specification-first Agent OS.</p>
-      <ul>
-        <li><a href="https://github.com/Q00/ouroboros/pull/1387">#1387</a> Codex stream timeout overrides</li>
-        <li><a href="https://github.com/Q00/ouroboros/pull/1640">#1640</a> per-phase interview timings</li>
-        <li><a href="https://github.com/Q00/ouroboros/pull/1661">#1661</a> proposal-first onboarding contract</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ouro-labs">Ouro-labs</a></h3>
-      <p><strong>Maintainer</strong> across the Ouroboros product ecosystem.</p>
-      <ul>
-        <li><a href="https://github.com/Ouro-labs/ourocode">ourocode</a>, native CLI and MCP orchestration</li>
-        <li><a href="https://github.com/Ouro-labs/ouroboros-plugins">ouroboros-plugins</a>, plugin ecosystem</li>
-        <li><a href="https://github.com/Ouro-labs/ouroboros-site">ouroboros-site</a>, public product site</li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DaedalGames">Daedal Games</a></h3>
@@ -73,6 +45,26 @@ My recurring question is simple:
         <li><a href="https://github.com/LilMGenius/paperthin/pull/14">#14</a> relative-link verification</li>
         <li><a href="https://github.com/LilMGenius/paperthin/pull/15">#15</a> independent perspective panel</li>
         <li><a href="https://github.com/LilMGenius/paperthin/pull/16">#16</a> proposal-first intent inference</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Q00/ouroboros">Q00/ouroboros</a></h3>
+      <p><strong>Upstream contributor</strong> to the specification-first Agent OS.</p>
+      <ul>
+        <li><a href="https://github.com/Q00/ouroboros/pull/1387">#1387</a> Codex stream timeout overrides</li>
+        <li><a href="https://github.com/Q00/ouroboros/pull/1640">#1640</a> per-phase interview timings</li>
+        <li><a href="https://github.com/Q00/ouroboros/pull/1661">#1661</a> proposal-first onboarding contract</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ouro-labs">Ouro-labs</a></h3>
+      <p><strong>Maintainer</strong> across the Ouroboros product ecosystem.</p>
+      <ul>
+        <li><a href="https://github.com/Ouro-labs/ourocode">ourocode</a>, native CLI and MCP orchestration</li>
+        <li><a href="https://github.com/Ouro-labs/ouroboros-plugins">ouroboros-plugins</a>, plugin ecosystem</li>
+        <li><a href="https://github.com/Ouro-labs/ouroboros-site">ouroboros-site</a>, public product site</li>
       </ul>
     </td>
   </tr>
@@ -132,16 +124,6 @@ Also contributed the <a href="https://github.com/Q00/contractplane/pull/13">Open
   <img src="https://img.shields.io/badge/MCP-5C59C7?style=flat-square" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/Accounting_systems-17192E?style=flat-square" alt="Accounting systems" />
   <img src="https://img.shields.io/badge/Public_data-343297?style=flat-square" alt="Public data" />
-</p>
-
-## Contribution trail
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiobuilds/sergiobuilds/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergiobuilds/sergiobuilds/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution trail" src="https://raw.githubusercontent.com/sergiobuilds/sergiobuilds/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 <p align="center">
