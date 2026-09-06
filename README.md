@@ -103,7 +103,7 @@ Smaller agent tools: [Tensei Slime](https://github.com/sergiobuilds/tensei-slime
 | :--- | :--- |
 | [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/) | Global Top 12 finalist; final result pending |
 | Open Builders Alliance Weekendthon | Runner-up with SealCPA, and recipient of an OpenAI-backed USD 10,000 prize |
-| [Naeil-ro Hackathon 2026](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=617), co-hosted by KORAIL and Incheon International Airport Corporation | Honorable Mention |
+| [KORAIL × Incheon International Airport Corporation AI Hackathon](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=617) | Honorable Mention |
 | Build Together Hackathon | Excellence Award (runner-up) |
 | Microsoft Copilot Hackathon | Award recipient |
 
