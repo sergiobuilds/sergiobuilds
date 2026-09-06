@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/builder-workbench.webp" width="100%" alt="A builder's workbench connecting agent systems, open-source pathways, and playable worlds">
+  <img src="https://raw.githubusercontent.com/sergiobuilds/sergiobuilds/main/assets/builder-workbench.webp" width="100%" alt="A builder's workbench connecting agent systems, open-source pathways, and playable worlds">
 </p>
 
 <div align="center">
