@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Sergio</h1>
-<p><b>Washington State CPA building source-bound public-grant systems and agent infrastructure.</b></p>
+<p><b>Building agent-native systems for complex work: executable by agents, inspectable by people.</b></p>
 <p>
 <img src="https://img.shields.io/badge/CPA-Washington_State-14857A?style=flat-square&labelColor=12233F" alt="Washington State CPA">
 <img src="https://img.shields.io/badge/Hackathons-4_awards-2E4057?style=flat-square&labelColor=12233F" alt="Four hackathon awards">
@@ -15,7 +15,7 @@
 
 ---
 
-Public money arrives with rules attached, and a rule is only worth anything if someone can check it against the record. Most of my work turns that check into software: post-award closeout, evidence review, and agent tooling that keeps its own reasoning inspectable.
+I build where agents meet real work: open game development, public-sector systems, and infrastructure for autonomous software development. Across them, the goal is the same: keep evidence, decisions, and execution connected and inspectable.
 
 > **Now competing:** [BidPilot](https://github.com/sergiobuilds/bidpilot) is a **Global Top 12 finalist** in the [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/). Final result pending.
 
