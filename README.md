@@ -3,7 +3,8 @@
 <p><b>Washington State CPA building source-bound public-grant systems and agent infrastructure.</b></p>
 <p>
 <img src="https://img.shields.io/badge/CPA-Washington_State-14857A?style=flat-square&labelColor=12233F" alt="Washington State CPA">
-<img src="https://img.shields.io/badge/Hackathons-3_awards-2E4057?style=flat-square&labelColor=12233F" alt="Three AI hackathon awards">
+<img src="https://img.shields.io/badge/Hackathons-4_awards-2E4057?style=flat-square&labelColor=12233F" alt="Four hackathon awards">
+<img src="https://img.shields.io/badge/Snowflake_CoCo-Global_Top_12-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=12233F" alt="Snowflake CoCo CLI Global Top 12 finalist">
 <img src="https://img.shields.io/badge/Open_source-Maintainer-2E4057?style=flat-square&labelColor=12233F" alt="Open source maintainer">
 <img src="https://img.shields.io/badge/OpenAI--backed_prize-USD_10,000-14857A?style=flat-square&labelColor=12233F" alt="OpenAI-backed USD 10,000 prize">
 </p>
@@ -15,6 +16,8 @@
 ---
 
 Public money arrives with rules attached, and a rule is only worth anything if someone can check it against the record. Most of my work turns that check into software: post-award closeout, evidence review, and agent tooling that keeps its own reasoning inspectable.
+
+> **Now competing:** [BidPilot](https://github.com/sergiobuilds/bidpilot) is a **Global Top 12 finalist** in the [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/). Final result pending.
 
 ## Selected open-source work
 
@@ -68,6 +71,12 @@ One more merged upstream change: [PR #13 to Q00/contractplane](https://github.co
 <table>
 <tr>
 <td colspan="2" valign="top">
+<a href="https://github.com/sergiobuilds/bidpilot"><b>BidPilot</b></a><br><sub>Snowflake CoCo CLI Global Top 12 finalist</sub>
+<p>An evidence-aware B2G pursuit agent that turns a public tender and supplier profile into a decision, win position, proposal, and owned next steps.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <a href="https://grantback.vercel.app"><b>GrantBack</b></a><br><sub>Source-bound obligation compiler</sub>
 <p>Reads fragmented post-award evidence and assembles a candidate receivable package for an accountant to review.</p>
 </td>
@@ -92,8 +101,10 @@ Smaller agent tools: [Tensei Slime](https://github.com/sergiobuilds/tensei-slime
 
 | Event | Result |
 | :--- | :--- |
+| [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/) | Global Top 12 finalist; final result pending |
 | Open Builders Alliance Weekendthon | Runner-up with SealCPA, and recipient of an OpenAI-backed USD 10,000 prize |
-| Build Together Hackathon | Winner |
+| [Naeil-ro Hackathon 2026](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=617), co-hosted by KORAIL and Incheon International Airport Corporation | Honorable Mention |
+| Build Together Hackathon | Excellence Award (runner-up) |
 | Microsoft Copilot Hackathon | Award recipient |
 
 ---
