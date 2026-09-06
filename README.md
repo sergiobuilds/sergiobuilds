@@ -14,7 +14,7 @@ I am **Sergio**, a **Washington State CPA**, three-time AI hackathon award winne
 
 - **public-grant operations**, post-award closeout, evidence review, and recovery workflows;
 - **agent infrastructure**, source-bound execution, orchestration, and developer tools;
-- **open source**, with upstream work in Ouroboros, K-Skill, ContractPlane, and Paperthin.
+- **open source**, with work across Ouroboros, Daedal Games, ContractPlane, and Paperthin.
 
 My recurring question is simple:
 
@@ -56,11 +56,12 @@ My recurring question is simple:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NomaDamas/k-skill">NomaDamas/k-skill</a></h3>
-      <p>Contributed a Korean business due-diligence skill suite.</p>
+      <h3><a href="https://github.com/DaedalGames">Daedal Games</a></h3>
+      <p><strong>Member</strong> building an open-source, agent-native game development ecosystem.</p>
       <ul>
-        <li><a href="https://github.com/NomaDamas/k-skill/pull/317">#317</a> five atomic skills, one combined skill, and proxy routes</li>
-        <li>2,802 additions across 30 files</li>
+        <li><a href="https://github.com/DaedalGames/OpenGame">OpenGame</a>, open agentic coding for games</li>
+        <li><a href="https://github.com/DaedalGames/godogen">godogen</a>, autonomous development across Godot, Bevy, and Babylon.js</li>
+        <li><a href="https://github.com/DaedalGames/HarnessOfHarness">HarnessOfHarness</a>, continual-improvement infrastructure for autonomous development</li>
       </ul>
     </td>
     <td width="50%" valign="top">
