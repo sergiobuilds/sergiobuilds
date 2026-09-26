@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Snowflake_CoCo-Global_Top_12-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=12233F" alt="Snowflake CoCo CLI Global Top 12 finalist">
+  <img src="https://img.shields.io/badge/Snowflake_CoCo-3rd_Runner--up-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=12233F" alt="Snowflake CoCo CLI Hackathon 3rd Runner-up">
   <img src="https://img.shields.io/badge/Hackathons-4_awards-F2C14E?style=flat-square&labelColor=12233F" alt="Four hackathon awards">
   <img src="https://img.shields.io/badge/Open_source-Maintainer-73D4B4?style=flat-square&labelColor=12233F" alt="Open source maintainer">
   <img src="https://img.shields.io/badge/CPA-Washington_State-E83E78?style=flat-square&labelColor=12233F" alt="Washington State CPA">
@@ -29,7 +29,7 @@
 
 I build the machinery behind autonomous creation: systems that help agents plan, make, test, and improve real software. Right now that means open game-development infrastructure, agent harnesses, and experiments that ship fast enough to teach the next one.
 
-> 🟦 **CURRENT SIGNAL** &nbsp; [BidPilot](https://github.com/sergiobuilds/bidpilot) is a **Global Top 12 finalist** in the [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/). Final result pending.
+> 🟦 **CURRENT SIGNAL** &nbsp; [BidPilot](https://github.com/sergiobuilds/bidpilot) was named **3rd Runner-up** in the [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/).
 
 ## Open-source work
 
@@ -89,7 +89,7 @@ Also merged: [Q00/contractplane #13](https://github.com/Q00/contractplane/pull/1
 <table>
 <tr>
 <td colspan="2" valign="top">
-<img src="https://img.shields.io/badge/GLOBAL_TOP_12-SNOWFLAKE_COCO-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=111111" alt="Snowflake CoCo Global Top 12"><br><br>
+<img src="https://img.shields.io/badge/3RD_RUNNER--UP-SNOWFLAKE_COCO-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=111111" alt="Snowflake CoCo CLI Hackathon 3rd Runner-up"><br><br>
 <a href="https://github.com/sergiobuilds/bidpilot"><b>BidPilot</b></a>
 <p>An evidence-aware pursuit agent that turns a tender and supplier profile into a decision, win position, proposal, and owned next steps.</p>
 </td>
@@ -124,7 +124,7 @@ Also merged: [Q00/contractplane #13](https://github.com/Q00/contractplane/pull/1
 
 | Event | Result |
 | :--- | :--- |
-| [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/) | **Global Top 12 finalist** · final result pending |
+| [Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/) | **3rd Runner-up** with BidPilot |
 | [Open Builders Alliance Weekendthon](https://www.oba.run/) | **Runner-up** with SealCPA · OpenAI-backed **USD 10,000 prize** |
 | KORAIL × Incheon International Airport Corporation AI Hackathon | **Honorable Mention** |
 | Build Together Hackathon | **Excellence Award** · runner-up |
